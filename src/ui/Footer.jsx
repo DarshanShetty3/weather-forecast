@@ -1,7 +1,7 @@
 function Footer() {
     return <footer>
         <div className="footer-container">
-            <p>Made by Shreyas S</p>
+            <p>Made by Darshan N Shetty</p>
         </div>
     </footer>
 }
